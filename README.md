@@ -1,8 +1,7 @@
 # E-Commerce-Last-Mile-Delivery-Quality-Dashboard-Microsoft-Excel
 Developed an interactive E-Commerce Last-Mile Delivery Quality Dashboard using Microsoft Excel. Utilized Pivot Tables, Excel formulas, charts, and slicers to analyze shipment performance, address accuracy, correction rates, average TAT, QA accuracy, on-time delivery, hub performance, and ticket resolution.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/775d9d68-ca3c-451d-9552-877fcd1028ca" />
-
+![Sales Dashboard](EcommerceDashboard.png)
 
 E-Commerce Last-Mile Delivery Quality Dashboard | Microsoft Excel
 
